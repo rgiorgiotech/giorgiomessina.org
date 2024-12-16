@@ -1,2 +1,2 @@
 # rgiorgiotech.github.io
-GitHub Pages test
+My personal portfolio (also accessible via giorgiomessina.org)
